@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+
+table, th, td {
+    border: 1.5px solid;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h5 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
